@@ -33,5 +33,5 @@ so I wanted to give people a taste of this essential Army job.
 
 
 
-- I want to add more featues that require user input/
+- I want to add more featues that require user input
 - I want to make it more detailed and more accurate to the actual process by lengthening the adjustment phase.
