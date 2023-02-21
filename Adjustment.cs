@@ -6,7 +6,7 @@ public class Adjustment
 {
     Radio _radio = new Radio();
     private string _adjustment = "";
-    private string _check = "";
+
     public void AdjustmentPhase()
     {
         Console.WriteLine();
