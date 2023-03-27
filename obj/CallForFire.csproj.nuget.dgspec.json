@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zbush\\OneDrive\\Desktop\\Call For Fire\\CallForFire.csproj": {}
+    "C:\\Users\\zbush\\OneDrive\\Desktop\\CallForFire\\CallForFire.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zbush\\OneDrive\\Desktop\\Call For Fire\\CallForFire.csproj": {
+    "C:\\Users\\zbush\\OneDrive\\Desktop\\CallForFire\\CallForFire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zbush\\OneDrive\\Desktop\\Call For Fire\\CallForFire.csproj",
+        "projectUniqueName": "C:\\Users\\zbush\\OneDrive\\Desktop\\CallForFire\\CallForFire.csproj",
         "projectName": "CallForFire",
-        "projectPath": "C:\\Users\\zbush\\OneDrive\\Desktop\\Call For Fire\\CallForFire.csproj",
+        "projectPath": "C:\\Users\\zbush\\OneDrive\\Desktop\\CallForFire\\CallForFire.csproj",
         "packagesPath": "C:\\Users\\zbush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zbush\\OneDrive\\Desktop\\Call For Fire\\obj\\",
+        "outputPath": "C:\\Users\\zbush\\OneDrive\\Desktop\\CallForFire\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

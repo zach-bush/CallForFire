@@ -13,3 +13,18 @@ C:\Users\zbush\OneDrive\Desktop\Call For Fire\obj\Debug\net7.0\refint\CallForFir
 C:\Users\zbush\OneDrive\Desktop\Call For Fire\obj\Debug\net7.0\CallForFire.pdb
 C:\Users\zbush\OneDrive\Desktop\Call For Fire\obj\Debug\net7.0\CallForFire.genruntimeconfig.cache
 C:\Users\zbush\OneDrive\Desktop\Call For Fire\obj\Debug\net7.0\ref\CallForFire.dll
+C:\Users\zbush\OneDrive\Desktop\CallForFire\bin\Debug\net7.0\CallForFire.exe
+C:\Users\zbush\OneDrive\Desktop\CallForFire\bin\Debug\net7.0\CallForFire.deps.json
+C:\Users\zbush\OneDrive\Desktop\CallForFire\bin\Debug\net7.0\CallForFire.runtimeconfig.json
+C:\Users\zbush\OneDrive\Desktop\CallForFire\bin\Debug\net7.0\CallForFire.dll
+C:\Users\zbush\OneDrive\Desktop\CallForFire\bin\Debug\net7.0\CallForFire.pdb
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.csproj.AssemblyReference.cache
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.AssemblyInfoInputs.cache
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.AssemblyInfo.cs
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.csproj.CoreCompileInputs.cache
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.dll
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\refint\CallForFire.dll
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.pdb
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\CallForFire.genruntimeconfig.cache
+C:\Users\zbush\OneDrive\Desktop\CallForFire\obj\Debug\net7.0\ref\CallForFire.dll
