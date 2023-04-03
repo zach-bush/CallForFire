@@ -9,6 +9,7 @@ public class FO
     private string _alt = "";
     private string _desc = "";
     
+    
     public void GatherEnemyData()
     {
         Console.WriteLine("What is the enemy grid?(8 digit) ");
@@ -32,5 +33,7 @@ public class FO
         _radio.Transmit("Mamba47",$"{_desc}" );
         Console.WriteLine();
     }
+
+    
 
 }
