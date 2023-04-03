@@ -33,5 +33,5 @@ so I wanted to give people a taste of this essential Army job.
 
 
 
-- I want to add more featues that require user input
-- I want to make it more detailed and more accurate to the actual process by lengthening the adjustment phase.
+- I would love to take this code and apply to a program that would add visual graphics to it and resemble a real world simulator. That would be really cool and a fun project. 
+
